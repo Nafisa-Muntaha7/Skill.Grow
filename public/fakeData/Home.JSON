@@ -38,45 +38,5 @@
         "details": "Good web design helps guide your users eyes and tell them where you want them to look. On your website, your design can draw attention to special offers, highlight calls to action, and help users identify buttons and clickable elements. All these things can help drive users to take the actions you want.",
         "price": "$28.4",
         "students": "3,240"
-    },
-    {
-        "img": "https://i.postimg.cc/cL5SRtSb/photo-9.jpg",
-        "course": "UI-UX design",
-        "id": 5,
-        "review": 510,
-        "rating": 4.9,
-        "details": "The UX/UI Design of the application improves the user experience and customer satisfaction that ultimately helps increase the number of users of the specific application. The UI and UX Design help to win the consumers confidence and make them use your application or website providing them what they are looking for.",
-        "price": "$30",
-        "students": "2,080"
-    },
-    {
-        "img": "https://i.postimg.cc/yNMC5qWh/photo-8.jpg",
-        "course": "Web Dev",
-        "id": 6,
-        "review": 370,
-        "rating": 3.7,
-        "details": "Web development gives you the opportunity to express yourself creatively on the internet... Fortunately, the high demand, easy-to-learn, fun-to-experience life of a web developer is always a great choice for someone ready to have an exciting career in code.",
-        "price": "$26.4",
-        "students": "3,965"
-    },
-    {
-        "img": "https://i.postimg.cc/MK92wfvp/photo-6.jpg",
-        "course": "Graphics Design",
-        "id": 7,
-        "review": 420,
-        "rating": 4.9,
-        "details": "Graphic design is an important tool that enhances how you communicate with other people. It serves to convey your ideas in a way that is not only effective, but also beautiful. Here are just a few factors to consider before investing in graphic design services. Good design makes you look good.",
-        "price": "$35.4",
-        "students": "2,900"
-    },
-    {
-        "img": "https://i.postimg.cc/C5YThjGz/photo-7.jpg",
-        "course": "MongoDB",
-        "id": 8,
-        "review": 400,
-        "rating": 4.4,
-        "details": "Using MongoDB can provide many benefits to a software development team. Its flexible schema makes it easy to evolve and store data in a way that is easy for programmers to work with. MongoDB is also built to scale up quickly and supports all the main features of modern databases such as transactions.",
-        "price": "$25.4",
-        "students": "1,990"
     }
 ]

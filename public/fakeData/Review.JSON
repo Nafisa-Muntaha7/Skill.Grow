@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.postimg.cc/dtWdzCTB/player-1.png",
+        "name": "Lando Norris",
+        "review": "What I learned from this web development course besides course topic is patience, time management, learn new things everyday and never give up."
+    },
+    {
+        "id": 2,
+        "img": "https://i.postimg.cc/gjgXb9rJ/player-3.png",
+        "name": "Max Verstappen",
+        "review": "It is an excellent course for beginners. I appreciate Skill.Grow team for their sincerity, cooperation and support. It was a great journey for me."
+    },
+    {
+        "id": 3,
+        "img": "https://i.postimg.cc/3wGv4bfS/player-2.png",
+        "name": "Lewis Hamilton",
+        "review": "This course is different from the others. This course made me a stronger, hard working and dedicated person. And I'm thanking the whole Skill.Grow team for their exceptional teaching process"
+    },
+    {
+        "id": 4,
+        "img": "https://i.postimg.cc/Gpz1QbfH/user-2.png",
+        "name": "Ariana G.",
+        "review": " Comprehensive course for anyone starting out in web development. Covers HTML5, CSS3, JS and Bootstrap for responsive design. Rightly focuses on web accessibility, New frameworks keep coming up. This is a good foundation to begin before moving on to frameworks such as Angular, React, Vue etc. "
+    },
+    {
+        "id": 5,
+        "img": "https://i.postimg.cc/j5ZdLHT3/user-1.png",
+        "name": "Esteben Ocon",
+        "review": "Whoa! I finally completed it! Thanks to the Professor and teaching staff for all the help! This is a fabulous course and I would definitely recommend it to anyone interested in UI-UX design. :)"
+    },
+    {
+        "id": 6,
+        "img": "https://i.postimg.cc/bYmsJhNY/player-5.png",
+        "name": "Alex Albon",
+        "review": "This course has been so great. It has provided me with practical knowledge and skills on website designing and development. "
+    }
+]

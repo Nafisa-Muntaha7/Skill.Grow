@@ -1,0 +1,18 @@
+.about-us{
+    display: flex;
+    align-items: center;
+}
+.mission{
+    padding: 10px;
+}
+.mission-heading{
+    color: rgb(187, 16, 50);
+}
+.woman{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.woman img{
+    width: 200px;
+}

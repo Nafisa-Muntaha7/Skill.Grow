@@ -1,0 +1,15 @@
+.services{
+    border: 2px solid rgba(182, 10, 10, 0.753);
+    border-radius: 5px;
+    background-color: rgb(250, 245, 245);
+    margin: 10px;
+    padding: 5px;
+    transition: 0.5s;
+}
+.services img{
+    width: 300px;
+    height: 275px;
+}
+.services:hover{
+    box-shadow: 10px 10px 10px rgba(199, 102, 102, 0.753);
+}

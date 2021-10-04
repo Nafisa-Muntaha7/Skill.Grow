@@ -1,6 +1,7 @@
 import React from 'react';
 import '../Home/Home.css'
-import Services from '../Services/Services';
+import HomeServices from '../HomeServices/HomeServices';
+
 
 const Home = () => {
     return (
@@ -23,7 +24,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <Services></Services>
+            <HomeServices />
         </div>
     );
 };

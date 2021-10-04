@@ -1,0 +1,17 @@
+.review img{
+    width: 100px;
+}
+.review{
+    border: 2px solid rgba(121, 7, 7, 0.753);
+    border-radius: 5px;
+    background-color: rgb(250, 245, 245);
+    margin: 10px;
+    padding: 15px;
+    transition: 0.5s;
+}
+.review:hover{
+    background-color: rgb(136, 26, 26);
+    border: 2px solid black;
+    color: white;
+
+}
