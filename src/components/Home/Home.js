@@ -12,12 +12,12 @@ const Home = () => {
                 </div>
                 <div>
                     <h2 className="title">Communication Skills</h2>
-                    <h3>Improving your problem-solving skills,
-                        improving your teamwork and communication skills</h3>
+                    <h3>Improve your problem-solving skills,
+                        improve your teamwork and communication skills.</h3>
                 </div>
                 <div>
                     <h2 className="title">Understanding</h2>
-                    <h3>Increasing your knowledge of programming concepts and languages,focusing on writing clean efficient code.</h3>
+                    <h3>Increase your knowledge of programming concepts and languages,focusing on writing clean efficient code.</h3>
                 </div>
             </div>
         </div>
