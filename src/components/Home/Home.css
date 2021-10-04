@@ -1,0 +1,11 @@
+.discover{
+    background-color: rgb(250, 242, 242);
+    padding: 20px;
+    margin: 30px;
+}
+.skills{
+    display: flex;
+}
+.title{
+    color:rgb(129, 4, 4);
+}

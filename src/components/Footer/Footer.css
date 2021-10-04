@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(4, 4, 75);
+    justify-content: space-evenly;
+    color: white;
+    align-items: center;
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+}
+.footer-part{
+    padding: 5px;
+    padding-left: 20px;
+}
