@@ -1,0 +1,66 @@
+[
+    {
+        "course": "Javascript crash course",
+        "review": 400,
+        "rating": 4.5,
+        "details": "While JavaScript is not the only client-side scripting language on the Internet, it was one of the first and it is still the most widely used. ... js makes responsive design easier. JavaScript has become integral to the Internet experience as developers build increased interaction and complexity into their applications.",
+        "price": "$33.4",
+        "students": "3,980"
+    },
+    {
+        "course": "HTML with CSS",
+        "review": 500,
+        "rating": 3.9,
+        "details": "CSS or Cascading Style Sheets adds styling such as fonts, colours or layouts to your website making the website more aesthetically pleasing. Therefore, HTML allows you to build the structure of your website and CSS makes that structure come to life.",
+        "price": "$31.4",
+        "students": "3,100"
+    },
+    {
+        "course": "Digital Marketing",
+        "review": 340,
+        "rating": 4.8,
+        "details": "Digital marketing lets you communicate with your customers in real-time. More importantly, it lets them communicate with you. Think about your social media strategy. Its great when your target audience sees your latest post, but its even better when they comment on it or share it.",
+        "price": "$43.4",
+        "students": "5,280"
+    },
+    {
+        "course": "Web Design It",
+        "review": 420,
+        "rating": 4.5,
+        "details": "Good web design helps guide your users eyes and tell them where you want them to look. On your website, your design can draw attention to special offers, highlight calls to action, and help users identify buttons and clickable elements. All these things can help drive users to take the actions you want.",
+        "price": "$28.4",
+        "students": "3,240"
+    },
+    {
+        "course": "UI-UX design",
+        "review": 510,
+        "rating": 4.9,
+        "details": "The UX/UI Design of the application improves the user experience and customer satisfaction that ultimately helps increase the number of users of the specific application. The UI and UX Design help to win the consumers confidence and make them use your application or website providing them what they are looking for.",
+        "price": "$30",
+        "students": "2,080"
+    },
+    {
+        "course": "Web Dev",
+        "review": 370,
+        "rating": 3.7,
+        "details": "Web development gives you the opportunity to express yourself creatively on the internet... Fortunately, the high demand, easy-to-learn, fun-to-experience life of a web developer is always a great choice for someone ready to have an exciting career in code.",
+        "price": "$26.4",
+        "students": "3,965"
+    },
+    {
+        "course": "Graphics Design",
+        "review": 420,
+        "rating": 4.9,
+        "details": "Graphic design is an important tool that enhances how you communicate with other people. It serves to convey your ideas in a way that is not only effective, but also beautiful. Here are just a few factors to consider before investing in graphic design services. Good design makes you look good.",
+        "price": "$35.4",
+        "students": "2,900"
+    },
+    {
+        "course": "MongoDB",
+        "review": 400,
+        "rating": 4.4,
+        "details": "Using MongoDB can provide many benefits to a software development team. Its flexible schema makes it easy to evolve and store data in a way that is easy for programmers to work with. MongoDB is also built to scale up quickly and supports all the main features of modern databases such as transactions.",
+        "price": "$25.4",
+        "students": "1,990"
+    }
+]
